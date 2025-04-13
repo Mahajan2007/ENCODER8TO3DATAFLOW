@@ -60,7 +60,7 @@ endmodule
 
 # Developed by:Mahajanani.R
 # RegisterNumber:212224230147
-*/
+# Date: 09/04/25
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
@@ -72,6 +72,6 @@ endmodule
 
 **RESULTS**
 
-
+successfully implemented Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functional tables
 
 
